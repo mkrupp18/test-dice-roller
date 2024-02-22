@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'test-dice-roller-mk'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_20693E28DEA04BC0A9236DC1DD2B834E }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08F762EC622B485BAD955EA2F626F594 }}
           package: .
